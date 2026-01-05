@@ -20,5 +20,5 @@ I’m a cybersecurity student graduating soon, actively building practical exper
 5. Vulnerability Assessment with OpenVAS — *Planned*
 
 ## Contact
-- LinkedIn: (add link)
+- LinkedIn: linkedin.com/in/calvin-trammell-56675295
 - Email: cwtrammell57@gmail.com
